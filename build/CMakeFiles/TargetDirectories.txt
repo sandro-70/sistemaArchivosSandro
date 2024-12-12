@@ -1,3 +1,0 @@
-/home/sandro/Estru1/proyectoSandro/build/CMakeFiles/MyProject.dir
-/home/sandro/Estru1/proyectoSandro/build/CMakeFiles/edit_cache.dir
-/home/sandro/Estru1/proyectoSandro/build/CMakeFiles/rebuild_cache.dir
